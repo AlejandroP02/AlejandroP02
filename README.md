@@ -7,4 +7,4 @@
 
 ![Repos Badge](https://badges.pufler.dev/repos/AlejandroP02)
 ![Years Badge](https://badges.pufler.dev/years/AlejandroP02)
-![Visits Badge](https://badges.pufler.dev/visits/AlejandroP02/git-badges)
+![Visits Badge](https://badges.pufler.dev/visits/AlejandroP02/AlejandroP02)
