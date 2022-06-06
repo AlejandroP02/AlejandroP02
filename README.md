@@ -7,4 +7,4 @@
 
 ![Repos Badge](https://badges.pufler.dev/repos/AlejandroP02)
 ![Years Badge](https://badges.pufler.dev/years/AlejandroP02)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AlejandroP02.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AlejandroP02.visitor-badge&right_color=green)
