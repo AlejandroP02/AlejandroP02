@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroP02&count_private=true&show_icons=true&theme=dark&locale=es)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroP02&theme=dark)
 
 ![Repos Badge](https://badges.pufler.dev/repos/AlejandroP02)
 ![Years Badge](https://badges.pufler.dev/years/AlejandroP02)
